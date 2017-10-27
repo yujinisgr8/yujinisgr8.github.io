@@ -6,7 +6,6 @@ languageCode = "en-us"
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
-publishDir = "docs"
 
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
@@ -30,7 +29,7 @@ publishDir = "docs"
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "yujingu@umich.edu"
+  email = "you@yoursite.com"
 
   # Nav links in the side bar
   [[params.navlinks]]
@@ -48,7 +47,7 @@ publishDir = "docs"
   [params.social]
   facebook      = "full page or profile url in facebook"
   googleplus    = "full profile url in googleplus"
-  email         = "yujingu@umich.edu"
+  email         = "email@example.com"
   twitter       = "full profile url in twitter"
   linkedin      = "full profile url in linkedin"
   stackoverflow = "full profile url in stackoverflow"
