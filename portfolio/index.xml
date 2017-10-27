@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yujin Gu</title>
-    <link>https://yujinisgr8.github.io/</link>
-    <description>Recent content on Yujin Gu</description>
+    <title>Portfolios on Yujin Gu</title>
+    <link>https://yujinisgr8.github.io/portfolio/</link>
+    <description>Recent content in Portfolios on Yujin Gu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2017 Yujin Gu</copyright>
     <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate>
     
-	<atom:link href="https://yujinisgr8.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yujinisgr8.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
