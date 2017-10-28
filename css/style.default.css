@@ -60,6 +60,11 @@ section.background-secondary {
 }
 .img-responsive {
   margin: 0 auto;
+  width:60vw;
+}
+
+.content-column-content img{
+  height:120px;
 }
 .no-space .box {
   margin: 0 -15px;
